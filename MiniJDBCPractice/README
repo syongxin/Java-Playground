@@ -1,0 +1,42 @@
+Create a Java console based application for the following scenario:
+
+------------------------------------------------------------------------------------------------------------
+There are various products and some product categories.
+
+Allow the user of the application to perform the following but not limited to:
+
+- Add new product category
+- Add new product under a category
+- View specific product's description and other details
+- Listing of categories
+- Listing of all the products of a category
+- Display Average number of products among all categories
+- Display the product which has largest description
+- Delete Category
+- Delete Product
+- Remove Product from a category
+- Display most recent 5 products
+
+
+USER INTERFACE:
+
+Database Connected!
+----------------- Please enter a valid number to perform an action, -1 to exit: -----------------
+1. Add new product category.
+2. Add new product under a category.
+3. View specific product's description and other details.
+4. Listing of categories.
+5. Listing of all the products of a category
+6. Display Average number of products among all categories
+7. Display the product which has largest description
+8. Delete a category
+9. Delete a product
+10. Remove Product from a category
+11. Display most recent 5 products.
+
+All user inputs will be checked for validation at each step.
+
+Input validation:
+  -- When select an option, input should be integer from 1 to 11 and -1 only.
+  -- When enter new product name/description, length should not longer than the limit value.
+  -- When enter new product price, input type will be checked, double type only.
