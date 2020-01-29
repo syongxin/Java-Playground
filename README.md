@@ -1,2 +1,2 @@
 # Java-Playground
-A repo holds all Java mini projects/practice
+This repo has all Java mini projects/practice
