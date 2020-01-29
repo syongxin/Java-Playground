@@ -1,6 +1,10 @@
 # Oracle Certified Professional Java Developer
 
 This is how I prepared for the OCPJP 8 certificate exam
+* [Java Class Design](https://github.com/syongxin/Java-Playground/tree/master/Oracle-Cerfitied-Professional-Java-Developer#java-class-design)
+    * [Implement Encapsulation](https://github.com/syongxin/Java-Playground/tree/master/Oracle-Cerfitied-Professional-Java-Developer#1-implement-encapsulation)
+    * [Implement inheritance including access modifiers and composition](https://github.com/syongxin/Java-Playground/tree/master/Oracle-Cerfitied-Professional-Java-Developer#2-implement-inheritance-including-access-modifiers-and-composition)
+    * [Implement Polymorphism](https://github.com/syongxin/Java-Playground/tree/master/Oracle-Cerfitied-Professional-Java-Developer#3-implement-polymorphism)
 
 # Java Class Design
 
