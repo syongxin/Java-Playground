@@ -26,7 +26,7 @@ public class WishListDAO {
 		try{
 			Class.forName("com.mysql.jdbc.Driver");
 			con = DriverManager.getConnection
-					("jdbc:mysql://localhost:3306/cartlist","root","syx1224syx");
+					("jdbc:mysql://localhost:3306/cartlist","root","abc123");
 		} catch(Exception e) {
 			e.printStackTrace();
 		}
