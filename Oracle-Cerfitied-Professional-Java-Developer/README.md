@@ -33,7 +33,7 @@ This is how I prepared for the OCPJP 8 certificate exam
 
 **Access modifiers**:
 
-![Oracle%20Certified%20Professional%20Java%20Developer/Untitled.png](Oracle%20Certified%20Professional%20Java%20Developer/Untitled.png)
+![AccessModifiers](https://www.cdn.geeksforgeeks.org/wp-content/uploads/Access-Modifiers-in-Java.png)
 
 **Inheritance example**:
 
