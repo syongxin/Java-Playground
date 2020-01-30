@@ -6,9 +6,9 @@ This is how I'm preparing for the OCPJP 8 certificate exam
     * [Implement Encapsulation](https://github.com/syongxin/Java-Playground/tree/master/Oracle-Cerfitied-Professional-Java-Developer#1-implement-encapsulation)
     * [Implement inheritance including access modifiers and composition](https://github.com/syongxin/Java-Playground/tree/master/Oracle-Cerfitied-Professional-Java-Developer#2-implement-inheritance-including-access-modifiers-and-composition)
     * [Implement Polymorphism](https://github.com/syongxin/Java-Playground/tree/master/Oracle-Cerfitied-Professional-Java-Developer#3-implement-polymorphism)
-    * [Override hashCode, equals and toString methods from Object class]()
-    * [Create and use singleton classes and immutable classes]()
-    * [Develop code that uses static keyword on initialize blocks, variables, methods and classes]()
+    * [Override hashCode, equals and toString methods from Object class](https://github.com/syongxin/Java-Playground/tree/master/Oracle-Cerfitied-Professional-Java-Developer#4-override-hashcode-equals-and-tostring-methods-from-object-class)
+    * [Create and use singleton classes and immutable classes](https://github.com/syongxin/Java-Playground/tree/master/Oracle-Cerfitied-Professional-Java-Developer#5-create-and-use-singleton-classes-and-immutable-classes)
+    * [Develop code that uses static keyword on initialize blocks, variables, methods and classes](https://github.com/syongxin/Java-Playground/tree/master/Oracle-Cerfitied-Professional-Java-Developer#6-develop-code-that-uses-static-keyword-on-initialize-blocks-variables-methods-and-classes)
 # Java Class Design
 
 ## 1. Implement Encapsulation
